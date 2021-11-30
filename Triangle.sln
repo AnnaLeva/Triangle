@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangle", "Triangle\Triangle.csproj", "{D9E7FC74-E0BB-4DB7-BE30-5E4BADC8CAC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square", "Square\Square.csproj", "{36A93CDB-7A82-4A32-BC00-4C9A95BD591D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9E7FC74-E0BB-4DB7-BE30-5E4BADC8CAC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E7FC74-E0BB-4DB7-BE30-5E4BADC8CAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E7FC74-E0BB-4DB7-BE30-5E4BADC8CAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E7FC74-E0BB-4DB7-BE30-5E4BADC8CAC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36A93CDB-7A82-4A32-BC00-4C9A95BD591D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A93CDB-7A82-4A32-BC00-4C9A95BD591D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A93CDB-7A82-4A32-BC00-4C9A95BD591D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A93CDB-7A82-4A32-BC00-4C9A95BD591D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F220B55-84B3-45E3-9F07-C6FE43C6BB21}
+	EndGlobalSection
+EndGlobal
